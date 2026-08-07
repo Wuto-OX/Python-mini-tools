@@ -1,0 +1,9 @@
+# Python 缓存文件
+__pycache__/
+*.pyc
+
+# 你的个人数据文件（不要上传到公开仓库）
+tasks.json
+
+# PyCharm 项目配置
+.idea/
